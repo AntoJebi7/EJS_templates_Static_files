@@ -1,5 +1,5 @@
 # Embedded JavaScript (EJS) for Dynamic Web Applications
-![Embedded JavaScript](ejs_img.png)
+<img src="ejs_img.png" width="900" height="300">
 This repository provides a detailed introduction and practical examples of using Embedded JavaScript (EJS), a templating engine for rendering dynamic HTML pages with JavaScript logic. EJS simplifies the creation of dynamic content by embedding JavaScript code within HTML templates, making it a popular choice for building server-side rendered applications in Node.js.
 
 ## What is EJS?
